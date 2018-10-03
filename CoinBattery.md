@@ -12,7 +12,7 @@ Using a voltmeter to show the effect with the coin battery is simpler but less s
 
  This is listed as a 5th grade science project, but first graders should be able to do this.  
 
-
+![Parts](/images/Battery_Parts.jpg)
 ## Objective
 
   To make science more approachable.  Using only house hold goods, one can do science!  Hence anyone can do science.
@@ -33,7 +33,6 @@ For each coin battery station, you’ll need:
 - [ ] Small battery, AA or AAA is fine
 - [ ] Optional LED
 
-![Supplies](./HowThingsWork_files/Coin_Battery_Project_Supplies.jpg)
 
 ## Preparation
 
@@ -41,6 +40,9 @@ Supper Easy!
 
 The only preparation needed for the coin battery project is to gather the materials.
 
+OPTIONAL:
+A range of LED diodes at different wavelengths.  Due to the relationship with energy and wavelengths different wavelengths.  The red LED turns on with the the lowest voltage.  This setup allows the students to see how the different amount of batteries to be stacked in series.
+![PlanksC](/images/Battery_LED_stand.jpg)
 
 ### Battery Test
 
