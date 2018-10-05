@@ -1,11 +1,12 @@
 
-# Lasers ans Jello
+# Lasers and Jello
 Not quite Sharks With Lasers.  
-However, jello makes an excellent medium that kids can use to design and create lenses to exploye properties of light.
+However, jello makes an excellent medium that kids can use to design and
+create lenses to explore properties of light.
 
 ![](./images/IMG_20180915_190804681.jpg )
 ## Objective
-Explore Properties of lenses and light
+Explore properties of lenses and light
 
 ## Material
 - Jello: 5 packages
