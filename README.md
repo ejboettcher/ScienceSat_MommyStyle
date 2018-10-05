@@ -8,8 +8,7 @@ My goal is to show that science is:
 * Does not need expensive equipment
 * Something you can do at home
 * A kid (at heart too) can do
-* Tries to use only household equipment.
-    * Want to emphasize that science is all around us and not just happens in a lab.  
+* Emphasize that science is all around us and not just happens in a lab.  
     * One way to do that, is to use everyday objects to do science.
 
 ## Light Lessons:
