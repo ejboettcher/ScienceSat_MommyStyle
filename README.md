@@ -8,6 +8,9 @@ My goal is to show that science is:
 * Does not need expensive equipment
 * Something you can do at home
 * A kid (at heart too) can do
+* Tries to use only household equipment.
+    * Want to emphasize that science is all around us and not just happens in a lab.  
+    * One way to do that, is to use everyday objects to do science.
 
 ## Light Lessons:
 * [Laser Jello](LaserJello.md)
@@ -19,13 +22,13 @@ My goal is to show that science is:
 * [Sodium](Sodium.md)  Still working on
 
 Work in progress (e.g. Not done yet):
-   * [Soap Foam](SoapFoam.md)
+** [Soap Foam](SoapFoam.md)
 
 ## Physics Lessons
 Work in progress (e.g. Not done yet):
-   * [Super Cooled Water](CoolWater.md)
-   * [Plasma with Grapes](PlasmaGrapes.md)
-   * [Aluminum Boats: Volume](AlBoats.md)
+** [Super Cooled Water](CoolWater.md)
+** [Plasma with Grapes](PlasmaGrapes.md)
+** [Aluminum Boats: Volume](AlBoats.md)
 
 ## Electronics Lessons:
 * [Coin Battery](CoinBattery.md)
