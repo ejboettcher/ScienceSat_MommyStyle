@@ -39,4 +39,5 @@ Work in progress (e.g. Not done yet):
 * [Coin Battery](CoinBattery.md)
 
 ## Watch on YouTube ONLY
+There are cool experiments out there that one should not do at home but they are still pretty cool.  Below are experiments that you should just watch from a safe distance.
 * [Glow Water](GlowWater.md)
