@@ -2,11 +2,13 @@
 
 ## Objective
 Give kids first hand experience with chemical properties.
+
 Let them see how those properties change significantly when a molecule is formed.  
+![Sodium](./images/sodium.png)
 
 ## Talking Points
-Salt is made upof two elements: Sodium and Chlorine.
-* Our body needs salt to live. 
+Salt is made up of two elements: Sodium and Chlorine.
+* Our body needs salt to live.
 * Our body is also made up of mostly water
 * Sodium gets really really hot in water!
 
@@ -14,7 +16,7 @@ Salt is made upof two elements: Sodium and Chlorine.
 Salt:
 * Clear crystal.
 * Hard
-* Disolves in water, no heat
+* Dissolves in water, no heat
 
 Sodium:
 * Shinny medal
@@ -22,13 +24,13 @@ Sodium:
 * Reacts in water
 * Gets really, really hot in water
    * try to catch a stick on fire when you put a little bit of sodium in water
-  
 
-## Materials 
+
+## Materials
 - Salt: NaCl
 - Sodium: Na
 - Water
-- large bucket
+- Large bucket
 - Gloves
 - Safety glasses
 - Sticks.  like what you use to make vegetable kabobs
@@ -38,11 +40,11 @@ Surprisingly easy to get sodium.
 
 ***Danger level: High***
 
+READ Sodium's [msds sheet](./doc/msds_sodium.pdf)
+
 ## Pointers
 Use ONLY a little bit of sodium at a time.  Dime size.
 ***Danger level: High***
-Make sure everyone is wearing safetly glasses
+Make sure everyone is wearing safety glasses
 
 DO NOT TOUCH the sodium when it is in the water.  Did I mention it gets really really hot.  You will burn yourself.
-
-

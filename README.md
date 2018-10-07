@@ -37,3 +37,6 @@ Work in progress (e.g. Not done yet):
 ### Chemistry 101
 * [Water Electrolysis](WaterElectrolysis.md)
 * [Coin Battery](CoinBattery.md)
+
+## Watch on YouTube ONLY
+* [Glow Water](GlowWater.md)
