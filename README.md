@@ -21,7 +21,7 @@ My goal is to show that science is:
 * [Sodium](Sodium.md)  Still working on
 
 Work in progress (e.g. Not done yet):
-** [Soap Foam](SoapFoam.md)
+* [Soap Foam](SoapFoam.md)
 
 ## Physics Lessons:
 Works in progress (i.e. Not done yet):

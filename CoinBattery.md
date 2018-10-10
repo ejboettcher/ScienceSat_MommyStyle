@@ -1,5 +1,5 @@
 # Coin Battery
-Adaptive from [How Things Work: Coin Battery Project](https://how-things-work-science-projects.com/coin-battery-project/)
+Adapted from [How Things Work: Coin Battery Project](https://how-things-work-science-projects.com/coin-battery-project/)
 
 We can turn pocket change into a battery that can light up a light!
 
@@ -122,7 +122,7 @@ We made a battery!
 We connect several batteries together in series to get enough voltage to light an LED. One coin became the  (+) terminal of a the battery and the other coin became the  (-) terminal.
 
 ### Why Does it "Short Out..."
-when the salt-water soaked paper is between the individual battery cells.
+when the salt-water soaked paper is between the individual battery cells?
 
 ***OFFICIAL ANSWER***
 Doing that connects a zinc-copper battery to a copper-zinc battery.
@@ -143,8 +143,8 @@ First performed by Alessandro Volta in something he called a voltaic pile way ba
 
 * A simple battery is simply two dissimilar materials: One with loosey goosey electrons (e.g. like to give up) and the other that likes to receive separated by electrolytic solution.   
   * A coin battery: one penny, one piece of salt water soaked paper (the solution) and one nickel,
-* A Coin Batter uses the same process that happens in a battery you buy at the store.
-* A single Coin Battery has too small of a voltage to light a bulb on its own.
+* A coin battery uses the same process that happens in a battery you buy at the store.
+* A single coin battery has too small of a voltage to light a bulb on its own.
 * If we connect enough of the coin batteries together in the right way, a light bulb can be turned on.
   * It is the same thing that happens in a flashlight, car battery etc.
 * Battery Acid is the electrolytic solution that makes the battery work, but much stronger than what we use.
