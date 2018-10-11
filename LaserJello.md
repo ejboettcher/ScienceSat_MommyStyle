@@ -22,7 +22,7 @@ Easy and safe
 High.  Disposable table cloth is nice to use since you will get Jello everywhere
 
 ## Pointers
-Do add a challenge, Otherwise this becomes pure play.  Which is not bad, but if you want them to learn more then a challenge is needed.
+Do add a challenge, otherwise this becomes pure play, which is not bad, but if you want them to learn more then a challenge is needed.
 
 * Make the jello thick like Jello jigglers.  The jello needs to be able to stand up on its own.
 * Set the jello on a cookie sheet. Easier to cut into lenses

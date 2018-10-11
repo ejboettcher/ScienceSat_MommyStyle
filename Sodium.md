@@ -10,7 +10,7 @@ Let them see how those properties change significantly when a molecule is formed
 Salt is made up of two elements: Sodium and Chlorine.
 * Our body needs salt to live.
 * Our body is also made up of mostly water
-* Sodium gets really really hot in water!
+* Sodium gets really, really hot in water!
 
 ### Physical properties:
 Salt:
@@ -19,7 +19,7 @@ Salt:
 * Dissolves in water, no heat
 
 Sodium:
-* Shinny medal
+* Shiny metal
 * Bendable: show how easy it is to cut
 * Reacts in water
 * Gets really, really hot in water
@@ -47,4 +47,4 @@ Use ONLY a little bit of sodium at a time.  Dime size.
 ***Danger level: High***
 Make sure everyone is wearing safety glasses
 
-DO NOT TOUCH the sodium when it is in the water.  Did I mention it gets really really hot.  You will burn yourself.
+DO NOT TOUCH the sodium when it is in the water.  Did I mention it gets really really hot?  You will burn yourself.
