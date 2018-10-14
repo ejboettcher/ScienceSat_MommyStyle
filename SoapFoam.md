@@ -1,4 +1,4 @@
-# Soap Foam AKA Elephant Soap
+# Soap Foam AKA Elephant Toothpaste
 
 Hydrogen Peroxide (H2O2) when mixed with a yeast (a catalyst) produces Water (H2O), Oxygen (O) and HEAT.
 Add soap to capture the Oxygen creates a hot, soapy, mixture.
