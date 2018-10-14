@@ -18,7 +18,7 @@ My goal is to show that science is:
 ## Chemistry Lessons:
 * [Water Electrolysis](WaterElectrolysis.md)
 * [Coin Battery](CoinBattery.md)
-* [Sodium](Sodium.md)  Still working on
+* [Sodium](Sodium.md)  
 * [Soap Foam](SoapFoam.md) aka Elephant Toothpaste
 
 ## Physics Lessons:
