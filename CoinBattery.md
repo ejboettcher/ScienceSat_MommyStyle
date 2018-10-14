@@ -3,19 +3,19 @@ Adapted from [How Things Work: Coin Battery Project](https://how-things-work-sci
 
 We can turn pocket change into a battery that can light up a light!
 
-With the right right coins and with care when  we connect them together we can build a real battery.
+With the right coins and with care when we connect them together we can build a real battery.
 
 Project supplies are cheap and easy to come by.
-Also, if you connect enough coin batteries together you can light an LED!  – – ***but*** LED's are diodes, so you have to pay attention to how the current should flow.
+Also, if you connect enough coin batteries together you can light an LED!  ***But*** LEDs are diodes, so you have to pay attention to how the current should flow.
 
 Using a voltmeter to show the effect with the coin battery is simpler but less satisfying.  E.g. no ***Let there be LIGHT!*** jokes.
 
- This is listed as a 5th grade science project, but first graders should be able to do this.  
+ This is listed as a 5th grade science project, but first graders should be able to do this.
 
 ![Parts](/images/Battery_Parts.jpg)
 ## Objective
 
-  To make science more approachable.  Using only house hold goods, one can do science!  Hence anyone can do science.
+  To make science more approachable.  Using only household goods, one can do science!  Hence anyone can do science.
 
 
 ## Coin Battery Project Supplies
@@ -36,15 +36,15 @@ For each coin battery station, you’ll need:
 
 ## Preparation
 
-Supper Easy!
+Super Easy!
 
 The only preparation needed for the coin battery project is to gather the materials.
 
 OPTIONAL:
-A range of LED diodes at different wavelengths.  Due to the relationship between energy and wavelength, different wavelengths take different amount of energy to light up an LED. The red LED turns on with the the lowest voltage.  This setup allows the students to see how the different amount of batteries to be stacked in series.
+A range of LED diodes at different wavelengths.  Due to the relationship between energy and wavelength, different wavelengths take different amount of energy to light up an LED. The red LED turns on with the the lowest voltage.  This setup allows the students to see the effect of stacking different amounts of batteries in series. 
 ![PlanksC](/images/Battery_LED_stand.jpg)
 
-See [Planck Constant](https://en.wikipedia.org/wiki/Planck_constant) for more information on this relationship.  
+See [Planck Constant](https://en.wikipedia.org/wiki/Planck_constant) for more information on this relationship.
 
 ### Battery Test
 
@@ -92,14 +92,13 @@ After each nickel/paper/penny cell is tested, set it on top of the previous cell
 ### Multi Cell Coin Battery
 ***Let there be LIGHT***
 
-In the photo above, 1.25 Volts was achieved with  3 cells connected together.
+In the photo above, 1.25 Volts was achieved with 3 cells connected together.
 
-1.4V is usually enough to light a LED.
+1.4V is usually enough to light an LED.
 
 After about 3 cells, it gets hard to hold them all together without shorting out the battery. It is easier to build the coin stack on the table and use the points the meter leads to touch the bottom and top coins.
 
-
-*** NOTE*** LEDs are diodes so the current only flows in one direction. Also there might not be enough current in your coin battery to light the LED, but give it a try! It’s well worth the effort!  
+*** NOTE*** LEDs are diodes so the current only flows in one direction. Also there might not be enough current in your coin battery to light the LED, but give it a try! It’s well worth the effort!
 
 ### More Experiments
 Try the other coins to see what happens.
@@ -117,9 +116,9 @@ Those are the most common problems, but if all that seems to be ok and the meter
 
 ## What just happened?
 
-We made a battery!  
+We made a battery!
 
-We connect several batteries together in series to get enough voltage to light an LED. One coin became the  (+) terminal of a the battery and the other coin became the  (-) terminal.
+We connected several batteries together in series to get enough voltage to light an LED. One coin became the  (+) terminal of a the battery and the other coin became the  (-) terminal.
 
 ### Why Does it "Short Out..."
 when the salt-water soaked paper is between the individual battery cells?
@@ -141,10 +140,9 @@ First performed by Alessandro Volta in something he called a voltaic pile way ba
 
 ### Summary
 
-* A simple battery is simply two dissimilar materials: One with loosey goosey electrons (e.g. like to give up) and the other that likes to receive separated by electrolytic solution.   
+* A simple battery is simply two dissimilar materials: One with loosey goosey electrons that it likes to give up and the other that likes to receive electrons separated by electrolytic solution.
   * A coin battery: one penny, one piece of salt water soaked paper (the solution) and one nickel,
 * A coin battery uses the same process that happens in a battery you buy at the store.
 * A single coin battery has too small of a voltage to light a bulb on its own.
-* If we connect enough of the coin batteries together in the right way, a light bulb can be turned on.
-  * It is the same thing that happens in a flashlight, car battery etc.
+* If we connect enough of the coin batteries together in the right way, a light bulb can be turned on. This is the same thing that happens in a flashlight, car battery etc.
 * Battery Acid is the electrolytic solution that makes the battery work, but much stronger than what we use.

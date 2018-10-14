@@ -12,13 +12,13 @@ into the weird world of quantum physics ( [QuantumPhysicsInGlass](https://www.po
 ## Why this experiment is a  NO go.
 First you need TOXIC or produce TOXIC chlorine gas!
 
-Do we really need a second: NO. TOXIC chlorine gas should be a hard enough full stop for anyone.
+Do we really need a second NO? TOXIC chlorine gas should be a hard enough full stop for anyone.
 
 Second, you need really really strong hydrogen peroxide.  Second hard stop.
 
-Lastly, it is really short.  
+Lastly, it is really short.
 
-So LOTS and LOTS of danger with no pay or very little pay off.  Best thing to do is watch the video and say COOL.  Then, go to graduate school in chemistry or physics and try it there.
+So LOTS and LOTS of danger with no pay or very little pay off.  Best thing to do is watch the video and say "COOL."  Then, go to graduate school in chemistry or physics and try it there.
 
 ## Why I was tempted: Explanation of Experiment
 (Adapted From Popular Science by Mike Walker)
@@ -41,7 +41,7 @@ Before the discovery in the 1920s of quantum mechanics—laws that explain the w
 
 * Second, there are three separate laws of quantum mechanics that say this particular transition (a lone oxygen molecule going from high to low energy) can't happen anyway.
 
-### WHY, the light:
+### Why, the light:
 Since the transition is forbidden, the molecule is stuck in its "excited" state—until, that is, it eventually collides with another excited molecule, breaking one of those laws (symmetry) and allowing two electrons to return to lower-energy states simultaneously. Together they release a single photon with twice the energy: a photon of visible orange-red light.
 
 
