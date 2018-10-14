@@ -1,11 +1,13 @@
 # Water Electrolysis: H2O to 2H and O
-![H2O Lego](./images/H2O_Lego_2.jpg ) 
+![H2O Lego](./images/H2O_Lego_2.jpg )
 
 Electrolysis of water is the decomposition of water into oxygen and hydrogen gas due to the passage of an electric current. The reaction has a standard potential of −1.23 V.
 
  That means if you supply a potential difference greater than 1.23 volts you can split water!  Say with a 9V battery, you can make some gas!!!
 
  **NOTE:**  The Hydrogen side makes twice as much gas as the oxygen side because it is H2  O.  
+
+ **Double NOTE:** Water Electrolysis is how the International Space Station gets is oxygen.  So you are doing science in the same league (Lego league?) as NASA antiscience!
 
 ## Goal
 Use simple office supplies and Legos (optional) to separate the hydrogen from the oxygen in water.
@@ -46,6 +48,21 @@ Easy
 
 Using NaCl (table salt) in as an electrolyte solution results in chlorine gas rather than oxygen due to a competing half-reaction ([Wikipedia: Water Electrolysis](https://en.wikipedia.org/wiki/Electrolysis_of_water)).
 
+
+## Why do NASA Scientist uses water electrolysis instead of bringing O2?
+
+### Water
+* Dense: Lots of Oxygen per square millimeter
+* Not flammable
+* Easy to store
+* Can use light weight container to store water
+    * But, in space everything is weightless!
+        * Yes, but it COSTs lots and lots money to ship it to space.  Think ~ $300,000 per pound.
+
+### Oxygen
+* Not dense, takes up a lot of space
+* Need heavy container (at high pressure) to make Oxygen as dense as water
+* FLAMMABLE
 
 ## References
 * [Excellent Video](https://www.youtube.com/watch?v=HQ9Fhd7P_HA)
