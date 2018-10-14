@@ -19,9 +19,7 @@ My goal is to show that science is:
 * [Water Electrolysis](WaterElectrolysis.md)
 * [Coin Battery](CoinBattery.md)
 * [Sodium](Sodium.md)  Still working on
-
-Work in progress (e.g. Not done yet):
-* [Soap Foam](SoapFoam.md)
+* [Soap Foam](SoapFoam.md) aka Elephant Toothpaste
 
 ## Physics Lessons:
 Works in progress (i.e. Not done yet):
