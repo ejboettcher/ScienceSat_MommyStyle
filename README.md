@@ -20,6 +20,7 @@ My goal is to show that science is:
 * [Coin Battery](CoinBattery.md)
 * [Sodium](Sodium.md)  
 * [Soap Foam](SoapFoam.md) aka Elephant Toothpaste
+* [Make Ice Cream in a Bag](https://www.yourhomebasedmom.com/ice-cream-bag/) state changes!
 
 ## Physics Lessons:
 Works in progress (i.e. Not done yet):
