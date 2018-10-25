@@ -73,7 +73,10 @@ Easy
 High strength Hydrogen Peroxide can cause burns.
 
 ## Pointers
-Show that it is Oxygen that is being produced
+* Show that it is Oxygen that is being produced
+* Repeat all experiments with water instead of hydrogen peroxide.  
+   * No O2 is produced with yeast is added to water
+   * Also when yeast is added no bubbles and heat.
 
 (WARNING: ADULTS ONLY)
 Do the same experiment with 3% Hydrogen Peroxide and some yeast (NO SOAP).  Then take a match with a very LONG stem and place it in the container.  It will RAPIDLY light up!
