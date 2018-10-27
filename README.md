@@ -20,7 +20,7 @@ My goal is to show that science is:
 * [Coin Battery](CoinBattery.md)
 * [Sodium](Sodium.md)  
 * [Soap Foam](SoapFoam.md) aka Elephant Toothpaste
-* [Candy Chemistry](CandyChemistry.md)
+* [Sink A Marshmallow](SinkAMarshmallow.md)
 
 ## Physics Lessons:
 Works in progress (i.e. Not done yet):
