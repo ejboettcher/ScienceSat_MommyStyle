@@ -13,6 +13,7 @@ My goal is to show that science is:
 
 ## Light Lessons:
 * [Laser Jello](LaserJello.md)
+* [Sink A Marshmallow](SinkAMarshmallow.md)
 
 
 ## Chemistry Lessons:
@@ -20,7 +21,6 @@ My goal is to show that science is:
 * [Coin Battery](CoinBattery.md)
 * [Sodium](Sodium.md)  
 * [Soap Foam](SoapFoam.md) aka Elephant Toothpaste
-* [Sink A Marshmallow](SinkAMarshmallow.md)
 
 ## Physics Lessons:
 Works in progress (i.e. Not done yet):
