@@ -36,7 +36,7 @@ Goal is to show that science is:
 * [Coin Battery](./lessons/CoinBattery.md)
 
 ## Food science
-* [Make Ice Cream in a Bag](./lesson/IceCream.md) state changes!
+* [Make Ice Cream in a Bag](./lesson/IceCream.md): Tasty Emulsions!
 * Butter (soon)
 * Sugar Candy (soon)
 
