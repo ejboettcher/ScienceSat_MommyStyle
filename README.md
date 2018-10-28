@@ -23,18 +23,22 @@ Goal is to show that science is:
 * [Coin Battery](./lessons/CoinBattery.md)
 * [Sodium](./lessons/Sodium.md)  
 * [Soap Foam](./lessons/SoapFoam.md) aka Elephant Toothpaste or Unicorn Poo
-* [Make Ice Cream in a Bag](https://www.yourhomebasedmom.com/ice-cream-bag/) state changes!
+
 
 ## Physics Lessons:
-Works in progress (i.e. Not done yet):
-* [Super Cooled Water](./lessons/CoolWater.md)
-* [Plasma with Grapes](./lessons/PlasmaGrapes.md)
+* [Super Cooled Water](./lessons/CoolWater.md)(soon)
+* [Plasma with Grapes](./lessons/PlasmaGrapes.md)(soon)
 * **Density**
-    * [Aluminum Boats: Make metal float](./lessons/AlBoats.md)
+    * [Aluminum Boats: Make metal float](./lessons/AlBoats.md) (soon)
     * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md)
 
 ## Electronics Lessons:
 * [Coin Battery](./lessons/CoinBattery.md)
+
+## Food science
+* [Make Ice Cream in a Bag](./lesson/IceCream.md) state changes!
+* Butter (soon)
+* Sugar Candy (soon)
 
 
 ## One Hour Fun:
