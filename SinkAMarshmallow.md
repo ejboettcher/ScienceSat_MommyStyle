@@ -1,5 +1,5 @@
 # How to Sink a Marshmallow  
-![Image Marshmallow](https://github.com/veldamart/ScienceSat_MommyStyle/blob/master/images/sinkingmarshmallows.jpg)
+![Sink Marshmallow](https://github.com/veldamart/ScienceSat_MommyStyle/blob/master/images/sinkingmarshmallows.jpg/200/300?style=centerme)
 
 Time: 5 to 10 minutes   
 Skill Level: Medium   
