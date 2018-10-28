@@ -21,8 +21,10 @@ Here we learn about Emulsions! An Emulsion is the combination of two liquids tha
 - [ ] 1/2 cup half and half
 - [ ] 1 Tbsp sugar
 - [ ] 1/2 tsp vanilla
-- [ ] 2 Tbsp chocolate syrup
-- [ ] 1/3 cup rock salt ice
+- [ ] 2 Tbsp chocolate syrup (Optional)
+- [ ] 1/3 cup rock salt
+- [ ] ice
+- [ ] Warm gloves (Ice is COLD)
 
 Servings: 1 serving
 
@@ -38,13 +40,13 @@ Servings: 1 serving
 * Place smaller bag with liquid inside larger bag and remove as much air as possible and zip closed.
 
 
-* Shake or toss bag for 5-10 minutes until the ice cream sets up.  EG You made an emulsion!
+* Shake or toss bag for 15-20 minutes until the ice cream sets up.  EG You made an emulsion!
 
 * Remove smaller bag from larger bag and squeeze ice cream into a bowl. Enjoy!
 
 
 ## Time
- 15 min.
+20 min.
 
 ## Lesson
 Ice cream is an emulsion! Am emulsion is a combination of two liquids that don't normally mix together.
@@ -101,7 +103,10 @@ A typical batch of ice cream will freeze at -3 °C (27 °F), due to the presence
 ## Clean up: Level of effort
 Low
 ## Pointers
-Make two!  Only one serving.
+* Wear warm gloves! Hands get cold tossing the bag of ice.
+* Make two!  Only one serving.
+
+* If it is below 20 degrees F. You can skip the bag of ice.
 
 ## Brain Freeze:
 When ice cream touches the roof of your mouth, it may trigger a cold headache. The cause is a dilation of blood vessels in your head located above the roof of your mouth. When this nerve center gets cold, it seems to overreact and tries to heat your brain.
