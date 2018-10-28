@@ -1,5 +1,5 @@
 # How to Sink a Marshmallow  
-Adapted from [How Things Work: Sink A Marshmallow](https://www.parenting.com/gallery/easy-science-fair-projects/)
+Adapted from [How Things Work: How To Sink A Marshmallow](https://www.parenting.com/gallery/easy-science-fair-projects/)
 
 Time: 5 to 10 minutes   
 Skill Level: Medium   
