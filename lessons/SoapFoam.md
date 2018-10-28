@@ -17,7 +17,7 @@ In addition, the combination, or ratio of the atoms in a molecule also affect is
 
 
 ## Materials
-![Prep Material](./images/h2o2_prep.jpg)
+![Prep Material](/images/h2o2_prep.jpg)
 * Empty CLEAN bottle: OJ, soda, beer, wine, water etc.
 * Measuring cup and measuring spoons
 * Salon-grade hydrogen peroxide (6-12 percent by volume; 20, 30 or 40 clear developer)
