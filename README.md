@@ -13,6 +13,7 @@ My goal is to show that science is:
 
 ## Light Lessons:
 * [Laser Jello](LaserJello.md)
+* [Sink A Marshmallow](SinkAMarshmallow.md)
 
 
 ## Chemistry Lessons:
