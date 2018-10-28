@@ -1,11 +1,13 @@
 # How to Sink a Marshmallow  
 Adapted from [How Things Work: How To Sink A Marshmallow](https://www.parenting.com/gallery/easy-science-fair-projects/)
 
+### The purpose of this project is to find out whether or not the marshmallow sinks with the ingredients added.
+
 Time: 5 to 10 minutes   
 Skill Level: Medium   
 The experiment: Marshmallows are filled with air, which makes them float. 
 
-![Sinking A Marshmallow](/images/sinkingmarshmallows.jpg style=centerme)
+![Marshmallow](/images/sinkingmarshmallows.jpg)
 
 ## Materials:
 * Mini marshmallows
