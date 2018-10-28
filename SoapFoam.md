@@ -1,7 +1,10 @@
-# Soap Foam AKA Elephant Toothpaste
+
+# Soap Foam AKA Elephant Soap, or Unicorn Poo
+
 
 Hydrogen Peroxide (H2O2) when mixed with a yeast (a catalyst) produces Water (H2O), Oxygen (O) and HEAT.
 Add soap to capture the Oxygen creates a hot, soapy, mixture.
+
 
 ## Goal
 Science is FUN and that you can do it at home!
@@ -19,7 +22,7 @@ In addition the combination, or ratio of the atoms in a molecule also affect is 
 * Measuring cup and measuring spoons
 * Salon-grade hydrogen peroxide (6-12 percent by volume; 20, 30 or 40 clear developer)
 * Concentrated dish soap
-* Liquid food coloring four-pack 
+* Liquid food coloring four-pack
 * Large tray or newspaper to protect surface from mess
 * Funnel (optional)
 * Small container
@@ -43,12 +46,11 @@ Pour yeast mixture into funnel or directly into the soda bottle, quickly remove 
 ### Smaller bottles work too!
 If you are using small 16oz water bottle use about 1/2 cup of H2O2.
 
-
 ## Time
 30 min
 
 ## Lesson
-* H2O2 is Hydrogen peroxide &
+* H2O2 is Hydrogen peroxide and
 * H2O is Water
 
 ***What a difference One little Oxygen makes***
@@ -62,6 +64,9 @@ In the [Water Electrolysis](WaterElectrolysis.md) experiment, we saw that water 
 If ONE more oxygen atom is added to a water molecule; we get Hydrogen peroxide!  Hydrogen Peroxide is a liquid that looks like water. And, it really really wants to be water.  When it gives up an oxygen atom, an exothermic (e.g. produces HEAT) reaction occurs. Depending on the catalyst, it can give up that Oxygen explosively!  So, lets not experiment too much with catalysts and high percentage of H2O2.
 
 Soap is one way we can capture the oxygen gas!  And Yeast is a safe catalyst.
+
+
+
 
 ## Level of effort
 Easy
@@ -80,7 +85,7 @@ High strength Hydrogen Peroxide can cause burns.
 
 (WARNING: ADULTS ONLY)
 Do the same experiment with 3% Hydrogen Peroxide and some yeast (NO SOAP).  Then take a match with a very LONG stem and place it in the container.  It will RAPIDLY light up!
-
+see [Youtube Video](https://www.youtube.com/watch?v=-pSstufKCSM)
 ## Extra
 Soap is not the only way to capture the Oxygen.  You can use a balloon.
 Steps:
