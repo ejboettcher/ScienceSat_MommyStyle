@@ -1,6 +1,6 @@
 
 # Soap Foam AKA Elephant Soap, or Unicorn Poo
-
+![Unicorn Poop Image](/images/UnicornPoo.png)
 
 Hydrogen Peroxide (H2O2) when mixed with a yeast (a catalyst) produces Water (H2O), Oxygen (O) and HEAT.
 Add soap to capture the Oxygen creates a hot, soapy, mixture.
@@ -13,12 +13,12 @@ Also, to show that hydrogen peroxide is much much different than water even thou
 
 Different atoms in combined make molecules that can have completely different physics and chemical properties than the atoms it is made out of.
 
-In addition the combination, or ratio of the atoms in a molecule also affect is physics and chemical properties.
+In addition, the combination, or ratio of the atoms in a molecule also affect is physics and chemical properties.
 
 
 ## Materials
-![Prep Material](./images/h2o2_prep.jpg)
-* Empty soda bottle
+![Prep Material](/images/h2o2_prep.jpg)
+* Empty CLEAN bottle: OJ, soda, beer, wine, water etc.
 * Measuring cup and measuring spoons
 * Salon-grade hydrogen peroxide (6-12 percent by volume; 20, 30 or 40 clear developer)
 * Concentrated dish soap
@@ -31,7 +31,8 @@ In addition the combination, or ratio of the atoms in a molecule also affect is 
 * Balloon (optional)
 
 ## Steps
-In a soda bottle mix:
+
+In a CLEAN bottle mix:
  * 2 cups salon-grade hydrogen peroxide,
  * 1 teaspoon dish soap, 20 drops each green and red liquid food coloring, and 10 drops each yellow and blue food coloring. (Tip: Standard 3 percent by volume peroxide from the drug/grocery store will work too, but with less effect.)
 
@@ -43,8 +44,18 @@ In a small container, thoroughly mix
 
 Pour yeast mixture into funnel or directly into the soda bottle, quickly remove funnel from the bottle, and step back!
 
+### Example with OJ bottle:
+![OJ bottle used for soap foam experiment](/images/soapfoam_ojcontainer.png)
+
+
 ### Smaller bottles work too!
-If you are using small 16oz water bottle use about 1/2 cup of H2O2.
+If you are using small 16oz water bottle use about 1/2 cup of H2O2.  
+* Any CLEAN small bottle with a narrow neck works.
+
+| Setup | Working | Worked |
+|:----: | :----: |:----: |
+| ![Soap Foam Start](/images/soapfoam1.png) | ![Soap Foam Middle](/images/soapfoam2.png) | ![Soap Foam End](/images/soapfoam3.png) |
+
 
 ## Time
 30 min
@@ -67,38 +78,35 @@ Soap is one way we can capture the oxygen gas!  And Yeast is a safe catalyst.
 
 
 
-
 ## Level of effort
 Easy
 
 ## Clean up: Level of effort
-* Mess factor HIGH.  Do outside.
+* Mess factor ***HIGH***.  Do outside.
 
 * Pretty Safe: However, Wear safety glasses and gloves.
-High strength Hydrogen Peroxide can cause burns.
+High strength Hydrogen Peroxide can cause burns. See [MSDS sheet](/doc/MSDS_Hydrogen_peroxide.pdf).  NOTE: 40 Volume is only ~12% Hydrogren Peroxide.
 
 ## Pointers
-* Show that it is Oxygen that is being produced
-* Repeat all experiments with water instead of hydrogen peroxide.  
-   * No O2 is produced with yeast is added to water
-   * Also when yeast is added no bubbles and heat.
+Show that it is Oxygen that is being produced
 
 (WARNING: ADULTS ONLY)
 Do the same experiment with 3% Hydrogen Peroxide and some yeast (NO SOAP).  Then take a match with a very LONG stem and place it in the container.  It will RAPIDLY light up!
 see [Youtube Video](https://www.youtube.com/watch?v=-pSstufKCSM)
+
 ## Extra
 Soap is not the only way to capture the Oxygen.  You can use a balloon.
-Steps:
+### Steps:
 * Place some dry yeast in a balloon.
 * Place 1/2 cup of hydrogen peroxide in a soda bottles
 * Place the balloon on the soda bottle
     * Take care not to get the yeast into the bottle
 * Tip the yeast into to bottle.
 
-![step 1](./images/h2o2_balloon0.jpg)
-![step 2](./images/h2o2_balloon1.jpg)
-![step 3](./images/h2o2_balloon2.jpg)
-![step 4](./images/h2o2_balloon3.jpg)
+
+| ![step 1](/images/h2o2_balloon0.jpg) |![step 2](/images/h2o2_balloon1.jpg)
+| ----| ---|
+| ![step 3](/images/h2o2_balloon2.jpg)| ![step 4](/images/h2o2_balloon3.jpg)|
 
 
 ## References
