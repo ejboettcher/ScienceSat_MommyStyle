@@ -5,7 +5,7 @@ Time: 5 to 10 minutes
 Skill Level: Medium   
 The experiment: Marshmallows are filled with air, which makes them float. 
 
-![Sink Marshmallow](https://github.com/veldamart/ScienceSat_MommyStyle/blob/master/images/sinkingmarshmallows.jpg/200/300?style=centerme)
+![Sink Marshmallow](https:~/images/sinkingmarshmallows.jpg style=centerme)
 
 ## Materials:
 * Mini marshmallows
