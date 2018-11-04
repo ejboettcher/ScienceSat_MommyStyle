@@ -29,7 +29,7 @@ Goal is to show that science is:
 * [Super Cooled Water](./lessons/CoolWater.md)(soon)
 * [Plasma with Grapes](./lessons/PlasmaGrapes.md)(soon)
 * **Density**
-    * [Aluminum Boats: Make metal float](./lessons/AlBoats.md) (soon)
+    * [Aluminum Boats: Make metal float](./lessons/AluminumBoats.md) (soon)
     * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md)
 
 ## Electronics Lessons:
