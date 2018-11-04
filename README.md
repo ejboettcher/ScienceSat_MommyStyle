@@ -36,7 +36,7 @@ Goal is to show that science is:
 * [Coin Battery](./lessons/CoinBattery.md)
 
 ## Food science
-* [Make Ice Cream in a Bag](./lessons/IceCream.md): Tasty Emulsions!
+* [Make Ice Cream in a Bag](./lessons/IceCream.md): Tasty Emulsions! (soon)
 * Butter (soon)
 * Sugar Candy (soon)
 
@@ -51,6 +51,13 @@ Shows how elements have different physical properties than a molecule made up of
 * [Aluminum Boats: Volume](./lessons/AlBoats.md): Make a metal float!
 * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md):
 
+## ***Disclaimer:***
+* Not liable for damages due to use or misuse.
+* No warranties expressed or implied.
+* For educational purposes only.
+* ***Safety goggles may be required during use***.
+* Void where prohibited.
+* You may experiences fails, have fun and try again.
 
 ## Watch on YouTube ONLY
 There are cool experiments out there that one should not do at home but they are still pretty cool.  Below are experiments that you should just watch from a safe distance.
