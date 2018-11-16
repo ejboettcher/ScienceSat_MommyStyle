@@ -3,7 +3,7 @@
 
 
 ## Goal
-Goal: The the question below try to answer or at least cause wonder:
+Goal: Try to answer or at least cause wonder with the question below:
 * ***How Can a 2 Ton Steel Boat Float?***
 
 
@@ -25,27 +25,33 @@ Goal: The the question below try to answer or at least cause wonder:
 
 ## Lesson
 
+This lesson is all about:
+* Maximizing the density of an object to hold the most mass (e.g. pennies).  
+* Hands on experiences with volume to gain a feel how density works.
 
-Aluminum foil is about 2.7 denser than water.  So it will sink when dropped into water.  
+NOTE:
+* Aluminum foil is about 2.7 denser than water.  
+    So it will sink when dropped into water.  
+* Density is the mass of the object divided by the volume.
+    d = m/v
 
-Density is the mass of the object divided by the volume.  
-
-This lesson is all about maximizing the density of an object to hold the most mass (e.g. pennies).  
+The hard part is associating heavy objects with the ablity to float on water.  d = m/v is a simple formula, but it takes a while to see how that enables a 2 ton steal boat to float on water.  
 
 For additional, challenges have the students try to minimize the aluminum foil to the point that it sinks.  
 
-Lastly, boat need to do more that simply float.  They have to be stable too in windy conditions.  The cargo challenge will test how stable their boat.  Making it more stable will most likely cause it to hold less pennies.
+Lastly, point out that boats need to do more that simply float.  They have to be stable even in  windy and wavey conditions.  The cargo challenge will test how stable their boat.  Making it more stable will most likely cause it to hold less pennies.
 
 
 ## Steps: Boat Challenge
 
 ***NOTE:*** It is really hard to make aluminum foil sink in water since it wants to create lots of crumpled air pockets.  Those making it less dense.
 
-***IMPORTANT****
+***IMPORTANT:***
 To show that the material really wants to sink.  Wrap a few pennies within the aluminum foil, and then drop it in.  It will sink really fast.  
 
-Then ask the students to build a boat to hold at least 50 pennies.
-
+* Give students a the aluminum foil sheet.
+* Ask the students to build a boat to hold at least 50 pennies.
+* After a few minutes test the boats by adding one penny at a time.
 
 
 ## Level of effort
