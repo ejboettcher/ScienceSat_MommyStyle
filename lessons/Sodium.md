@@ -4,7 +4,7 @@
 Give kids first hand experience with chemical properties.
 
 Let them see how those properties change significantly when a molecule is formed.  
-![Sodium](./images/sodium.png)
+![Sodium](/images/sodium.png)
 
 ## Talking Points
 Salt is made up of two elements: Sodium and Chlorine.
