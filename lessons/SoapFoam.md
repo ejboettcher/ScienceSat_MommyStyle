@@ -34,7 +34,7 @@ In addition, the combination, or ratio of the atoms in a molecule also affect is
 
 In a CLEAN bottle mix:
  * 2 cups salon-grade hydrogen peroxide,
- * 1 teaspoon dish soap, 20 drops each green and red liquid food coloring, and 10 drops each yellow and blue food coloring. (Tip: Standard 3 percent by volume peroxide from the drug/grocery store will work too, but with less effect.)
+ * 1 teaspoon clear dish soap, 20 drops each green and red liquid food coloring, and 10 drops each yellow and blue food coloring. The food coloring should run down the sides of the bottle. If you use colored dish soap the result won't be bright white. (Tip: Standard 3 percent by volume peroxide from the drug/grocery store will work too, but with less effect.)
 
 Place the soda bottle in large tray or on protected surface and place funnel in opening of the soda bottle.
 
