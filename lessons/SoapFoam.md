@@ -35,15 +35,17 @@ In addition, the combination, or ratio of the atoms in a molecule also affect is
 In a CLEAN bottle mix:
  * 2 cups salon-grade hydrogen peroxide, Tip: Standard 3 percent by volume peroxide from the drug/grocery store will work too, but with less effect.)
  * 1 teaspoon dish soap,
- * 20 drops each green and red liquid food coloring, and 10 drops each yellow and blue food coloring. The food coloring should run down the sides of the bottle.(
+ * 20 drops each green and red liquid food coloring, and 10 drops each yellow and blue food coloring. The food coloring should run down the sides of the bottle. Try to make sure the food coloring does not fall to the bottom.  
 
 Place the soda bottle in large tray or on protected surface and place funnel in opening of the soda bottle.
 
 In a small container, thoroughly mix
 * 2 tablespoons yeast and
-* 6 tablespoons warm water. Let sit for 2 minutes. 
+* 6 tablespoons warm water. Let sit for 2 minutes.
 
 Pour yeast mixture into funnel or directly into the soda bottle, quickly remove funnel from the bottle, and step back!
+
+
 
 ### Example with OJ bottle:
 ![OJ bottle used for soap foam experiment](/images/soapfoam_ojcontainer.png)
