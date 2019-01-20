@@ -1,8 +1,8 @@
-# Ice Cream in a Bag
+# Dry Ice Ice Cream:  
 
-Ice cream in a bag is a quick easy way to make Ice Cream, get some exercise and learn a little food science.
+Dry ice ice cream is a quick easy way to make Ice Cream. and learn a little food science.  Bonus, the ice cream can become carbonated with this method too.
 
-Did you know that: *Air makes up anywhere from 30% to 50% of the total volume of ice cream.*  Guess that is why you can make Ice Cream Floats!
+Did you know that: *Air makes up anywhere from 30% to 50% of the total volume of ice cream.*  Guess that is why one can make Ice Cream Floats!
 
 ![Science Ice cream Image](/images/1450816777062.jpg)
 
@@ -16,33 +16,25 @@ Here we learn about Emulsions! An Emulsion is the combination of two liquids tha
 
 ## Materials
 
-- [ ] 1 gallon zippered plastic bag
-- [ ] 1 sandwich size zippered plastic bag
-- [ ] 1/2 cup half and half
-- [ ] 1 Tbsp sugar
-- [ ] 1/2 tsp vanilla
-- [ ] 2 Tbsp chocolate syrup (Optional)
-- [ ] 1/3 cup rock salt
-- [ ] ice
+- [ ] 1 your favorite ice cream base (cooled).  
+    - Mine is [Jeni's Ice crean base](https://www.saveur.com/article/Recipes/Jenis-Ice-Cream-Base)
+- [ ] 1.2 lbs of dry ice
 - [ ] Warm gloves (Ice is COLD)
+- [ ] Mixing bowl
+- [ ] Hammer or mortar and pestle  
 
 Servings: 1 serving
 
 ## Instructions
 
-* In **sandwich bag** add  half & half, sugar, vanilla and chocolate syrup.
-* Shake gently to combine ingredients to make a mixture.
-* Zip bag closed removing as much air as possible.
+* Added the ice cream base to a mixing bowl
+   * Stand mixer is ideal.
+* Smash the dry ice.  
+   * NOTE: if using a stand mixer, you want the dry ice to be about rice size.  Large chunks will cause the ice cream to fly out and over everything in your kitchen with the ice cream base.  
+* Add about 1/2 of the dry ice in.	 
+* Start mixing! Slowly at first.
+* After 5 min. check to see if you need to add more dry ice.
 
-
-* In **gallon bag** fill half way with crushed ice
-* Add rock salt into large bag with ice.
-* Place smaller bag with liquid inside larger bag and remove as much air as possible and zip closed.
-
-
-* Shake or toss bag for 15-20 minutes until the ice cream sets up.  EG You made an emulsion!
-
-* Remove smaller bag from larger bag and squeeze ice cream into a bowl. Enjoy!
 
 
 ## Time
@@ -103,15 +95,12 @@ A typical batch of ice cream will freeze at -3 °C (27 °F), due to the presence
 ## Clean up: Level of effort
 Low
 ## Pointers
-* Wear warm gloves! Hands get cold tossing the bag of ice.
-* Make two!  Only one serving.
+* Smash the dry ice into small pieces before turning the mixture on.
+* Make sure all of the dry ice has melted **BEFORE** eatting the ice cream.
 
-* If it is below 20 degrees F. You can skip the bag of ice.
 
 ## Brain Freeze:
 When ice cream touches the roof of your mouth, it may trigger a cold headache. The cause is a dilation of blood vessels in your head located above the roof of your mouth. When this nerve center gets cold, it seems to overreact and tries to heat your brain.
 
 ## References
-*  [Your Home Based Mom](https://www.yourhomebasedmom.com/ice-cream-bag/)
-* Recipe Author: Leigh Anne Wilkes
 * American Chemical Society: [Ice Cream Chemistry](https://www.acs.org/content/acs/en/education/resources/highschool/chemmatters/past-issues/archive-2013-2014/ice-cream-chemistry.html)

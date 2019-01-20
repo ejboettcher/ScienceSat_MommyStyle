@@ -27,16 +27,16 @@ Goal is to show that science is:
 
 ## Physics Lessons:
 * [Super Cooled Water](./lessons/CoolWater.md)(soon)
-* [Plasma with Grapes](./lessons/PlasmaGrapes.md)(soon)
+* [Plasma with Grapes](./lessons/PlasmaGrape.md)
 * **Density**
-    * [Aluminum Boats: Make metal float](./lessons/AluminumBoats.md) (soon)
+    * [Aluminum Boats: Make metal float](./lessons/AluminumBoats.md)
     * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md)
 
 ## Electronics Lessons:
 * [Coin Battery](./lessons/CoinBattery.md)
 
 ## Food science
-* [Make Ice Cream in a Bag](./lessons/IceCream.md): Tasty Emulsions! (soon)
+* [Make Dry Ice, Ice Cream](./lessons/IceCream.md): Tasty Emulsions!
 * Butter (soon)
 * Sugar Candy (soon)
 

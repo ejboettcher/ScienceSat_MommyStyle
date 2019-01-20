@@ -39,7 +39,7 @@ Lastly, boat need to do more that simply float.  They have to be stable too in w
 
 ## Steps: Boat Challenge
 
-***NOTE:*** It is really hard to make aluminum foil sink in water since it wants to create lots of crumpled air pockets.  Those making it less dense.
+***NOTE:*** It is really hard to make aluminum foil sink in water since it wants to create lots of crumpled air pockets.  Those crumpled air pockets make it less dense.
 
 ***IMPORTANT****
 To show that the material really wants to sink.  Wrap a few pennies within the aluminum foil, and then drop it in.  It will sink really fast.  

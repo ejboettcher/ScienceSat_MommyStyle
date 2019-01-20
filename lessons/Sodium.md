@@ -110,7 +110,7 @@ Use ONLY a little bit of sodium at a time.  Dime size.
 
 Make sure everyone is wearing safety glasses
 
-***DO NOT TOUCH*** the sodium when it is in the water.  Did I mention it gets really really hot?  You will burn yourself.
+***DO NOT TOUCH*** the sodium when it is in the water.  It gets really really hot?  You will burn yourself.
 
 ## References
 * [PH Defined](https://en.wikipedia.org/wiki/PH)
