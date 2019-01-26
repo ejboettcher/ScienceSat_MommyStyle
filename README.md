@@ -31,6 +31,7 @@ Goal is to show that science is:
 * **Density**
     * [Aluminum Boats: Make metal float](./lessons/AluminumBoats.md)   
     * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md)
+* [Spectroscope: Measure light](./lessons/spectroscope.md)
 
 ## Electronics Lessons:
 * [Coin Battery](./lessons/CoinBattery.md)
@@ -51,6 +52,13 @@ Shows how elements have different physical properties than a molecule made up of
 ### Density 101
 * [Aluminum Boats: Volume](./lessons/AlBoats.md): Make a metal float!
 * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md):
+
+## Stars: Why we look out
+We look out to discover more about ourselves and our planet.  
+By looking out into the stars we learned how plasma work and discovered
+helium 30 years before it was found on earth using a spectroscope.
+* [Plasma with Grapes](./lessons/PlasmaGrape.md)
+* [Spectroscope: Measure light](./lessons/spectroscope.md)
 
 ## ***Disclaimer:***
 * Not liable for damages due to use or misuse.
