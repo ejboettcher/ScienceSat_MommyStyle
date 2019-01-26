@@ -78,7 +78,7 @@ Easy
 ## Pointers
 When showing the kids how it works, use a cell phone over where you place your eye so that multiple people can see at once.
 
-Students can make and build there own spectroscopes for ~ $1.50 per student.  Free if you use old CD (see references)
+Students can make and build there own spectroscopes for ~ $1.50 per student.  Free if you use an old CD (see references)
 
 ## References
 * [Make a spectroscope with a CD](https://www.livescience.com/41548-spectroscopy-science-fair-project.html)

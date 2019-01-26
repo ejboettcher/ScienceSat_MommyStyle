@@ -53,7 +53,7 @@ Shows how elements have different physical properties than a molecule made up of
 * [Aluminum Boats: Volume](./lessons/AlBoats.md): Make a metal float!
 * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md):
 
-## Stars: Why we look out
+### Stars: Why we look out
 We look out to discover more about ourselves and our planet.  
 By looking out into the stars we learned how plasma work and discovered
 helium 30 years before it was found on earth using a spectroscope.
