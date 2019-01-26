@@ -1,5 +1,5 @@
 # Water Electrolysis: H2O to 2H and O
-![H2O Lego](./images/H2O_Lego_2.jpg )
+![H2O Lego](../images/H2O_Lego_2.jpg )
 
 Electrolysis of water is the decomposition of water into oxygen and hydrogen gas due to the passage of an electric current. The reaction has a standard potential of −1.23 V.
 
