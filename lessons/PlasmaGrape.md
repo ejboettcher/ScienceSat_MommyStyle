@@ -1,6 +1,10 @@
 # Plasma with Grapes
  WARNING: THIS MAY DESTROY YOUR MICROWAVE
+ ![Plasma Gif](/images/plasma_sm.gif)
 
+ | ![Plasma Setup](/images/plasma_setup.jpg ) |
+ |:--|
+ | ![Plasma After](/images/plasma_after.jpg) |
 ## Goal
 Show that plasma is a state of matter that can be made at home, just like you can do with the other (main) three: Solid, Liquid and Gas.
 
@@ -14,7 +18,8 @@ Show that science is fun.
 * Grapes
 * Knife
 * paper towels
-* Clear plastic container (too protect the microwave and capture the plasma)
+* Clear container (too protect the microwave and capture the plasma)
+   * glass beaker worked well
 * Plastic spacers (Legos, lids etc.) To lift the container off the ground.
 
 
@@ -79,7 +84,7 @@ Due to the size of the grapes  (~1 cm) and the frequency of the concentrated mic
 ## Pointers
 * Use a clear disposable plastic container over the grape to keep the plasma contained.  This is melt the container and hopefully protect the microwave.
 * Squeeze out the extra juice in the grape.  The water add extra thermal mass (thus slowing it from heating up)
-
+* Use a glass beaker, the plastic melts really easily
 
 ## References
 * Plasma Science and Fusion Center (MIT): [What is a Plasma](http://www.psfc.mit.edu/vision/what_is_plasma)

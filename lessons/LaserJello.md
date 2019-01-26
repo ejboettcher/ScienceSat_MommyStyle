@@ -4,7 +4,10 @@ Not quite Sharks With Lasers.
 However, jello makes an excellent medium that kids can use to design and
 create lenses to explore properties of light.
 
-![](./images/IMG_20180915_190804681.jpg )
+| ![Laser Jello](/images/jello_beakerlaser.jpg ) | ![Laser Jello](/images/jello_greenlaser.jpg ) |
+|:--|:--|
+| Internal Refraction | Angle change |
+
 
 ## In honor of Dr. Donna Strickland
 2018 Nobel prize winner in Physics for creating the technique of Chirped Pulse Amplification(CPA) for lasers, where a laser is pulsed over a short time to increase it's power!  
@@ -54,3 +57,5 @@ RULEs:
 
 
 ### Bend light 180 degrees and hit a target.
+
+![Laser Jello](/images/jello_bunlaser.jpg )
