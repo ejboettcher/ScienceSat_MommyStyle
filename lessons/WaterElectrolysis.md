@@ -7,7 +7,7 @@ Electrolysis of water is the decomposition of water into oxygen and hydrogen gas
 
  **NOTE:**  The Hydrogen side makes twice as much gas as the oxygen side because it is H2  O.  
 
- **Double NOTE:** Water Electrolysis is how the International Space Station gets is oxygen.  So you are doing science in the same league (Lego league?) as NASA antiscience!
+ **Double NOTE:** Water Electrolysis is how the International Space Station gets is oxygen.  So you are doing science in the same league (Lego league?) as NASA science!
 
 ## Goal
 Use simple office supplies and Legos (optional) to separate the hydrogen from the oxygen in water.
