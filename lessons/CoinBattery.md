@@ -1,5 +1,5 @@
 # Coin Battery
-Adapted from [How Things Work: Coin Battery Project](https://how-things-work-science-projects.com/coin-battery-project/)
+
 
 We can turn pocket change into a battery that can light up a light!
 
@@ -13,14 +13,14 @@ Using a voltmeter to show the effect with the coin battery is simpler but less s
  This is listed as a 5th grade science project, but first graders should be able to do this.
 
 ![Parts](/images/Battery_Parts.jpg)
-## Objective
+
+## Goals
 
   To make science more approachable.  Using only household goods, one can do science!  Hence anyone can do science.
 
 
-## Coin Battery Project Supplies
+## Materials
 
-### Materials
 For each coin battery station, you’ll need:
 
 - [ ] A small glass or bowl
@@ -34,30 +34,38 @@ For each coin battery station, you’ll need:
 - [ ] Optional LED
 
 
-## Preparation
+## Time
+30 mins
+
+### Preparation
 
 Super Easy!
 
 The only preparation needed for the coin battery project is to gather the materials.
 
 OPTIONAL:
-A range of LED diodes at different wavelengths.  Due to the relationship between energy and wavelength, different wavelengths take different amount of energy to light up an LED. The red LED turns on with the the lowest voltage.  This setup allows the students to see the effect of stacking different amounts of batteries in series. 
-![PlanksC](/images/Battery_LED_stand.jpg)
+A range of LED diodes at different wavelengths.  Due to the relationship between energy and wavelength, different wavelengths take different amount of energy to light up an LED. The red LED turns on with the the lowest voltage.  This setup allows the students to see the effect of stacking different amounts of batteries in series.
+
+![Planks Constant](/images/Battery_LED_stand.jpg)
 
 See [Planck Constant](https://en.wikipedia.org/wiki/Planck_constant) for more information on this relationship.
+
+## Lesson
 
 ### Battery Test
 
 Use the AA battery as shown in the photo to the left to verify you have the meter set up correctly.
 
-![Battery Test](./HowThingsWork_files/Coin_Battery_Project_meter_test.jpg)
+![Battery Test](/HowThingsWork_files/Coin_Battery_Project_meter_test.jpg)
+
 If the light bulb project is being performed at the same time as the coin battery, this is the perfect time to show how the battery can be used to make the flashlight bulb light up.
 
 
 ***Let the Students know that*** If the meter moves using coins and salt water, (e.g. You have a voltage difference) then they just built a ‘real’ battery.  Or they created there own potential (PUN intended!)
 
-## Building The Battery:
-![Setup](./HowThingsWork_files/DSCF3890.jpg)
+### Steps: Building The Battery:
+
+![Parts](/images/Battery_Parts.jpg)
 
 * Add a small amount of water in the glass or bowl. 1/4 cup should do just fine. Mix in enough salt such that a few grains no longer dissolve after stirring.
 
@@ -72,7 +80,7 @@ If the light bulb project is being performed at the same time as the coin batter
 Your DONE.  You just built not one but multiple BATTERIES.  Congratulations!
 
 ### Testing the Battery
-![Battery Test](./HowThingsWork_files/DSCF3902.jpg)
+![Battery Test](/HowThingsWork_files/DSCF3902.jpg)
 
 Turn the voltmeter on to a DC Voltage setting that shows at least one, and if possible, two or more decimal points as shown in the photo. Test each coin battery cell to make sure it is working as a small battery by putting one lead on the nickel and the other on the penny. You should see somewhere between .25 and .50 volts DC depending on how well that cell is working.
 
@@ -100,25 +108,21 @@ After about 3 cells, it gets hard to hold them all together without shorting out
 
 *** NOTE*** LEDs are diodes so the current only flows in one direction. Also there might not be enough current in your coin battery to light the LED, but give it a try! It’s well worth the effort!
 
-### More Experiments
+## More Experiments
+
 Try the other coins to see what happens.
 
  You should see that some coin combinations make better batteries than others.
 
-### IMPORTANT NOTE
+## IMPORTANT NOTE
+
 Be sure the students see that if the meter leads are held apart, touched together, or even put in the salt water by them self, nothing happens. Two dissimilar metals are needed to act as the battery terminals, and without them, no voltage is generated.
 
-### Troubleshooting
+## Troubleshooting
 
 If you have trouble getting good readings, make sure that the paper does not drape over the side so that it touches other coins. That shorts the battery and little or no voltage will be displayed on the meter. If the water isn’t salty enough, it will not act as a good electrolyte. That means only a few ions will move from one coin to the other and you will have low voltage readings. If you put paper between the individual cells (see above for the correct stacking order), poor if any voltage will be generated.
 
 Those are the most common problems, but if all that seems to be ok and the meter still won’t read, try lightly sanding the coin surfaces with a small piece of sand paper. That should fix it.
-
-## What just happened?
-
-We made a battery!
-
-We connected several batteries together in series to get enough voltage to light an LED. One coin became the  (+) terminal of a the battery and the other coin became the  (-) terminal.
 
 ### Why Does it "Short Out..."
 when the salt-water soaked paper is between the individual battery cells?
@@ -134,6 +138,14 @@ Another way to look at it is that as the positive voltage goes one way, but bein
 
 By leaving the wet paper (electrolyte) off between each individual battery cell, there is no electrolyte to force copper and zinc(or Nickel e.g. the other coin) ions to flow. Only free charge will flow from one cell to another through the metal-to-metal contact. When more than one battery cell is included, the voltage increase becomes additive, and you see the effect we saw during the experiment.
 
+
+## What just happened?
+
+We made a battery!
+
+We connected several batteries together in series to get enough voltage to light an LED. One coin became the  (+) terminal of a the battery and the other coin became the  (-) terminal.
+
+
 ### History / Provenance
 First performed by Alessandro Volta in something he called a voltaic pile way back in 1800. (The unit volt is named after Volta). He used alternating (copper and zinc) or (silver and zinc) discs that were separated by cardboard or cloth soaked in salt water, just like we did above. Some metals have more free electrons to give up or accept in ionic form than others, some dissimilar metal combinations work better as batteries than others. If you tried different coins above, you should have seen that effect. If you tried two of the same coins together, penny – paper – penny for example, you would also see that coins with the same metal in them will not give you a battery at all.
 
@@ -146,3 +158,11 @@ First performed by Alessandro Volta in something he called a voltaic pile way ba
 * A single coin battery has too small of a voltage to light a bulb on its own.
 * If we connect enough of the coin batteries together in the right way, a light bulb can be turned on. This is the same thing that happens in a flashlight, car battery etc.
 * Battery Acid is the electrolytic solution that makes the battery work, but much stronger than what we use.
+
+## Clean up:
+* Easy
+* Level of Effort: Easy
+
+## Reference
+
+Adapted from [How Things Work: Coin Battery Project](https://how-things-work-science-projects.com/coin-battery-project/)
