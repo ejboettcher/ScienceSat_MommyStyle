@@ -10,7 +10,7 @@ Make science fun!
 
 ## Lesson
 
-### Steps 
+### Steps
 
 ## Level of effort
 

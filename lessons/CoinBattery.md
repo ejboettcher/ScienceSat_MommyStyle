@@ -65,7 +65,7 @@ If the light bulb project is being performed at the same time as the coin batter
 
 ### Steps: Building The Battery:
 
-![Setup](/HowThingsWork_files/DSCF3890.jpg)
+![Parts](/images/Battery_Parts.jpg)
 
 * Add a small amount of water in the glass or bowl. 1/4 cup should do just fine. Mix in enough salt such that a few grains no longer dissolve after stirring.
 
