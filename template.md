@@ -7,7 +7,10 @@ Make science fun!
 ## Materials
 
 ## Time
+
 ## Lesson
+
+### Steps 
 
 ## Level of effort
 
