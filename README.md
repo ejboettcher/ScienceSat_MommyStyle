@@ -1,10 +1,11 @@
 # Science Saturday Mommy Style
-![](./images/sciencesat.jpg )
+![science setup](./images/sciencesat.jpg )
 
 ## Science Saturday with a Mom.
 
 Backyard science with common household equipment.
 Goal is to show that science is:
+
 - [ ] Interesting
 - [ ] Does not need expensive equipment
 - [ ] Something you can do at home
