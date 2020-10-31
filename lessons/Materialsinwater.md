@@ -9,7 +9,7 @@ Learn how different materials mix into water!
 
 ## Materials
 
-![Image of all of the materials next to each other](/images/materialsetup.jpg)
+![Image of all of the materials next to each other](../images/materialsetup.jpg)
 
 1. Clear Vinegar
 2. Rubbing Alcohol

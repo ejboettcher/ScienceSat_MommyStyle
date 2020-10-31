@@ -11,7 +11,7 @@ You can also use this to see the difference between florescent light bulbs and L
 ## Goal
 Make a spectroscope to see different color of light.
 
-| ![Full Spectrum](/images/fullspectrumlight.jpg ) | ![florescent](/images/Florecent_light.jpg ) |
+| ![Full Spectrum](../images/fullspectrumlight.jpg ) | ![florescent](../images/Florecent_light.jpg ) |
 |:--|:--|
 | Full Spectrum Light| Florescent Light |
 
@@ -26,9 +26,9 @@ Make a spectroscope to see different color of light.
 or purchase a spectroscope for ~ 8 dollars.
 
 
-| ![Setup](/images/spectroscope.jpg ) |
+| ![Setup](../images/spectroscope.jpg ) |
 |:--|
-| ![inside spectro scope](/images/spectroscope_inner.jpg ) |
+| ![inside spectro scope](../images/spectroscope_inner.jpg ) |
 | A spectroscope innards |
 
 ### Cost ~ $3.00- 14.00
@@ -41,7 +41,7 @@ or purchase a spectroscope for ~ 8 dollars.
 Longer if you talk about how it works and try to calculate
 
 ## Lesson
-![Spectrum of light](/images/Visible_spec.png)
+![Spectrum of light](../images/Visible_spec.png)
 Light is part of the electromagnetic spectrum that we can see (400nm to 750nm).  
 White light is made up of multiple wavelengths that are combined.  
 
