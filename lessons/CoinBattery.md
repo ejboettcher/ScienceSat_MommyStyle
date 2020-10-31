@@ -12,7 +12,7 @@ Using a voltmeter to show the effect with the coin battery is simpler but less s
 
  This is listed as a 5th grade science project, but first graders should be able to do this.
 
-![Parts](./../images/Battery_Parts.jpg)
+![Parts](../images/Battery_Parts.jpg)
 
 ## Goals
 
