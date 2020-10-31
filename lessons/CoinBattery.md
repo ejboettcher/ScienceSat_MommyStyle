@@ -46,7 +46,7 @@ The only preparation needed for the coin battery project is to gather the materi
 OPTIONAL:
 A range of LED diodes at different wavelengths.  Due to the relationship between energy and wavelength, different wavelengths take different amount of energy to light up an LED. The red LED turns on with the the lowest voltage.  This setup allows the students to see the effect of stacking different amounts of batteries in series.
 
-![Planks Constant](./images/Battery_LED_stand.jpg)
+![Planks Constant](lessons/images/Battery_LED_stand.jpg)
 
 See [Planck Constant](https://en.wikipedia.org/wiki/Planck_constant) for more information on this relationship.
 
