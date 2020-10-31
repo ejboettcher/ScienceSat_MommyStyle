@@ -79,6 +79,7 @@ These two experiments should go hand in hand.  As temperature increases gasses w
 ### Density 101
 * [Aluminum Boats: Volume](./lessons/AlBoats.md): Make a metal float!
 * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md):
+* [Pennies and Water](./lessons/Water_density_temp.md): Measure with pennies the differences of water density as function of temperature
 
 ### Stars: Why we look out
 We look out to discover more about ourselves and our planet.  
