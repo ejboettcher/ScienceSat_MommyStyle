@@ -64,13 +64,14 @@ Shows how elements have different physical properties than a molecule made up of
 This has two parts (total of four lessons).  It covers solubility vs. mixtures and how thermal energy (which can causes increased diffusion) affects the solubility of a material in water.
 
 #### Part I:
-See how different material disperse into water to make a solution or mixture.  Also see how thermal energy affects how the material disperses
+See how different material disperse into water to make a solution or mixture.  Also see how thermal energy affects how the material disperses.
 * [Solubility](./lessons/Materialsinwater.md): Identifying which material make a solution or mixture in water.
 * [Diffusion](./lessons/Dyecolor.md): Using Food coloring and hot/cold water to show thermal energy as diffusion.
 
 #### Part II:
 Water Solubility of solids and gasses as a function of temperature.
 These two experiments should go hand in hand.  As temperature increases gasses want to dissolve **OUT OF** of water; however solids want to dissolve **INTO** the water.  
+
 * [Gas Solubility](./lessons/Co2Solubity.md): CO2 Solubility in Water as function of Temperature
 * [Solid Solubility](./lessons/SugarSolubilty.md): Sugar Solubility in Water as function of Temperature
 
@@ -78,6 +79,7 @@ These two experiments should go hand in hand.  As temperature increases gasses w
 ### Density 101
 * [Aluminum Boats: Volume](./lessons/AlBoats.md): Make a metal float!
 * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md):
+* [Pennies and Water](./lessons/Water_density_temp.md): Measure with pennies the differences of water density as function of temperature
 
 ### Stars: Why we look out
 We look out to discover more about ourselves and our planet.  
