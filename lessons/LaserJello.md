@@ -4,7 +4,7 @@ Not quite Sharks With Lasers.
 However, jello makes an excellent medium that kids can use to design and
 create lenses to explore properties of light.
 
-| ![Laser Jello](/images/jello_beakerlaser.jpg ) | ![Laser Jello](/images/jello_greenlaser.jpg ) |
+| ![Laser Jello](../images/jello_beakerlaser.jpg ) | ![Laser Jello](../images/jello_greenlaser.jpg ) |
 |:--|:--|
 | Internal Refraction | Angle change |
 
@@ -58,4 +58,4 @@ RULEs:
 
 ### Bend light 180 degrees and hit a target.
 
-![Laser Jello](/images/jello_bunlaser.jpg )
+![Laser Jello](../images/jello_bunlaser.jpg )

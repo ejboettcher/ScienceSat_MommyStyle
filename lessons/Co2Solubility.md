@@ -6,7 +6,7 @@ This experiment, like the sugar solubility, is about the the solubility of thing
 To learn about the difference in gas and solid solubility.
 Make science fun!  This is in contract to solids into liquids, ( [see Sugar Solubility](SugarSolubility.md) )
 
-![Image of a chart graphing the co2 and sucrose solubility](/images/ChartCo2andSugar.png)
+![Image of a chart graphing the co2 and sucrose solubility](../images/ChartCo2andSugar.png)
 
 ## Materials
 
@@ -24,7 +24,7 @@ Clean Up: 5 minutes
 
 ## Lesson
 
-![Image of Bottle filling with hot water](/images/Hotwaterco2experiment.jpg)
+![Image of Bottle filling with hot water](../images/Hotwaterco2experiment.jpg)
 
 Steps:
 

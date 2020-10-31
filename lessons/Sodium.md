@@ -4,7 +4,7 @@
 Give kids first hand experience with chemical properties.
 
 Let them see how those properties change significantly when a molecule is formed.  
-![Sodium](/images/sodium.png)
+![Sodium](../images/sodium.png)
 
 ## Talking Points
 Salt is made up of two elements: Sodium and Chlorine.
@@ -54,7 +54,7 @@ Surprisingly easy to get sodium.
 
 ***Danger level: High***
 
-READ Sodium's [msds sheet](./doc/msds_sodium.pdf)
+READ Sodium's [msds sheet](../doc/msds_sodium.pdf)
 
 
 ## Salt and Sodium compare:
@@ -114,4 +114,4 @@ Make sure everyone is wearing safety glasses
 
 ## References
 * [PH Defined](https://en.wikipedia.org/wiki/PH)
-* [Sodium msds sheet](./doc/msds_sodium.pdf)
+* [Sodium msds sheet](../doc/msds_sodium.pdf)

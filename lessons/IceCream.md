@@ -4,7 +4,7 @@ Dry ice ice cream is a quick easy way to make Ice Cream. and learn a little food
 
 Did you know that: *Air makes up anywhere from 30% to 50% of the total volume of ice cream.*  Guess that is why one can make Ice Cream Floats!
 
-![Science Ice cream Image](/images/1450816777062.jpg)
+![Science Ice cream Image](../images/1450816777062.jpg)
 
 ## Goal
 Cooking is science too!  

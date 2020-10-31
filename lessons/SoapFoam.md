@@ -1,6 +1,6 @@
 
 # Soap Foam AKA Elephant Soap, or Unicorn Poo
-![Unicorn Poop Image](/images/UnicornPoo.png)
+![Unicorn Poop Image](../images/UnicornPoo.png)
 
 Hydrogen Peroxide (H2O2) when mixed with a yeast (a catalyst) produces Water (H2O), Oxygen (O) and HEAT.
 Add soap to capture the Oxygen creates a hot, soapy, mixture.
@@ -17,7 +17,7 @@ In addition, the combination, or ratio of the atoms in a molecule also affect is
 
 
 ## Materials
-![Prep Material](/images/h2o2_prep.jpg)
+![Prep Material](../images/h2o2_prep.jpg)
 * Empty CLEAN bottle: OJ, soda, beer, wine, water etc.
 * Measuring cup and measuring spoons
 * Salon-grade hydrogen peroxide (6-12 percent by volume; 20, 30 or 40 clear developer)
@@ -48,7 +48,7 @@ Pour yeast mixture into funnel or directly into the soda bottle, quickly remove 
 
 
 ### Example with OJ bottle:
-![OJ bottle used for soap foam experiment](/images/soapfoam_ojcontainer.png)
+![OJ bottle used for soap foam experiment](../images/soapfoam_ojcontainer.png)
 
 
 ### Smaller bottles work too!
@@ -57,7 +57,7 @@ If you are using small 16oz water bottle use about 1/2 cup of H2O2.
 
 | Setup | Working | Worked |
 |:----: | :----: |:----: |
-| ![Soap Foam Start](/images/soapfoam1.png) | ![Soap Foam Middle](/images/soapfoam2.png) | ![Soap Foam End](/images/soapfoam3.png) |
+| ![Soap Foam Start](../images/soapfoam1.png) | ![Soap Foam Middle](../images/soapfoam2.png) | ![Soap Foam End](../images/soapfoam3.png) |
 
 
 ## Time
@@ -107,9 +107,9 @@ Soap is not the only way to capture the Oxygen.  You can use a balloon.
 * Tip the yeast into to bottle.
 
 
-| ![step 1](/images/h2o2_balloon0.jpg) |![step 2](/images/h2o2_balloon1.jpg)
+| ![step 1](../images/h2o2_balloon0.jpg) |![step 2](../images/h2o2_balloon1.jpg)
 | ----| ---|
-| ![step 3](/images/h2o2_balloon2.jpg)| ![step 4](/images/h2o2_balloon3.jpg)|
+| ![step 3](../images/h2o2_balloon2.jpg)| ![step 4](../images/h2o2_balloon3.jpg)|
 
 
 ## References

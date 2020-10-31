@@ -6,7 +6,7 @@ This sounded AWESOME: Physics and Chemistry combined.  Nifty visible proof in wh
 Two chemicals create a glowing mixture that’s a window
 into the weird world of quantum physics ( [QuantumPhysicsInGlass](https://www.popsci.com/diy/article/2008-07/quantum-physics-glass))
 
-![From Popsci](images/glassquantum.png)
+![From Popsci](../images/glassquantum.png)
 
 
 ## Why this experiment is a  NO go.

@@ -7,7 +7,7 @@ This is an experiment about the saturation point of solids in liquids (specifica
 To learn how solubility of solids changes as a function of temperature.
 Make science fun with a ***sweet*** experiment.
 
-![Image of a chart graphing the co2 and sucrose solubility](/images/ChartCo2andSugar.png)
+![Image of a chart graphing the co2 and sucrose solubility](../images/ChartCo2andSugar.png)
 
 ## Materials
 
@@ -18,7 +18,7 @@ Make science fun with a ***sweet*** experiment.
 - [ ] A piece of paper (to record your results)
 - [ ] Cold, warm, and hot water
 
-![Image of the sugar water set up, sugar thermometer, teaspoon, and jars.](/images/Sugarwater2.jpg)
+![Image of the sugar water set up, sugar thermometer, teaspoon, and jars.](../images/Sugarwater2.jpg)
 
 ## Time
 
