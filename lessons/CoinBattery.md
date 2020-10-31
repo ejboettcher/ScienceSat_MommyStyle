@@ -12,7 +12,7 @@ Using a voltmeter to show the effect with the coin battery is simpler but less s
 
  This is listed as a 5th grade science project, but first graders should be able to do this.
 
-![Parts](../images/Battery_Parts.jpg)
+![Parts](./images/Battery_Parts.jpg)
 
 ## Goals
 
@@ -46,7 +46,7 @@ The only preparation needed for the coin battery project is to gather the materi
 OPTIONAL:
 A range of LED diodes at different wavelengths.  Due to the relationship between energy and wavelength, different wavelengths take different amount of energy to light up an LED. The red LED turns on with the the lowest voltage.  This setup allows the students to see the effect of stacking different amounts of batteries in series.
 
-![Planks Constant](../images/Battery_LED_stand.jpg)
+![Planks Constant](./images/Battery_LED_stand.jpg)
 
 See [Planck Constant](https://en.wikipedia.org/wiki/Planck_constant) for more information on this relationship.
 
@@ -65,7 +65,7 @@ If the light bulb project is being performed at the same time as the coin batter
 
 ### Steps: Building The Battery:
 
-![Parts](/images/Battery_Parts.jpg)
+![Parts](./images/Battery_Parts.jpg)
 
 * Add a small amount of water in the glass or bowl. 1/4 cup should do just fine. Mix in enough salt such that a few grains no longer dissolve after stirring.
 
