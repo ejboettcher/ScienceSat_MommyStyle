@@ -88,12 +88,12 @@ After each nickel/paper/penny cell is tested, set it on top of the previous cell
 
 #### Battery cells
 
-| Battery Cells  | Volts |
-|------|--------|
-|   1     | ~ 0.25  |
-| 2    | 0.5 - 0.8 |
-| 3    | 0.8 - 1.4 |
-| 5 - 6   | 1.5 - 2.5 |
+| Battery Cells | Volts     |
+|:------ :        |:--------:   |
+|   1           | ~ 0.25    |
+|   2           | 0.5 - 0.8 |
+|   3           | 0.8 - 1.4 |
+| 5 - 6         | 1.5 - 2.5 |
 
 
 

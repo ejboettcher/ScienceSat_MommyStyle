@@ -1,5 +1,9 @@
 # Science Saturday Mommy Style
+
 ![science setup](./images/sciencesat.jpg )
+
+* [Github Site](https://github.com/ejboettcher/ScienceSat_MommyStyle)
+* [Web Site](https://ejboettcher.github.io/ScienceSat_MommyStyle/)
 
 ## Science Saturday with a Mom.
 
@@ -20,19 +24,25 @@ Goal is to show that science is:
 
 
 ## Chemistry Lessons:
-* [Water Electrolysis](./lessons/WaterElectrolysis.md)
-* [Coin Battery](./lessons/CoinBattery.md)
+* [Water Electrolysis](./lessons/WaterElectrolysis.md): Separate H2 of the O using Legos and a battery.
+* [Coin Battery](./lessons/CoinBattery.md): Build a battery with spare change
 * [Sodium](./lessons/Sodium.md)  
 * [Soap Foam](./lessons/SoapFoam.md) aka Elephant Toothpaste or Unicorn Poo
+* **Solubility**:
+    * [Solubility](./lessons/Materialsinwater.md): Identifying which material make a solution or mixture in water.
+    * [Gas Solubility](./lessons/Co2Solubity.md): CO2 Solubility in Water as function of Temperature
+    * [Solid Solubility](./lessons/SugarSolubilty.md): Sugar Solubility in Water as function of Temperature
+* [Diffusion](./lessons/Dyecolor.md): Using Food coloring and hot/cold water to show thermal energy as diffusion.
 
 
 ## Physics Lessons:
 * [Super Cooled Water](./lessons/CoolWater.md)(soon)
-* [Plasma with Grapes](./lessons/PlasmaGrape.md)
+* [Plasma with Grapes](./lessons/PlasmaGrape.md): Make a Plasma using fruit and a microwave
 * **Density**
     * [Aluminum Boats: Make metal float](./lessons/AluminumBoats.md)   
     * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md)
-* [Spectroscope: Measure light](./lessons/spectroscope.md)
+* [Spectroscope](./lessons/spectroscope.md): Make a spectroscope with a defraction grating and "See" what colors are in light.
+* [Diffusion](./lessons/Dyecolor.md): Using Food coloring and hot/cold water to show thermal energy as diffusion.
 
 ## Electronics Lessons:
 * [Coin Battery](./lessons/CoinBattery.md)
