@@ -42,7 +42,7 @@ Goal is to show that science is:
     * [Aluminum Boats: Make metal float](./lessons/AluminumBoats.md)   
     * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md)
 * [Spectroscope](./lessons/spectroscope.md): Make a spectroscope with a defraction grating and "See" what colors are in light.
-* [Diffusion](./lessons/Dyecolor.md): Using Food coloring and hot/cold water to show thermal energy as diffusion.
+* [Diffusion](./lessons/Dyecolor.md): Using Food coloring and hot/cold water to show thermal energy as diffusion.  See how thermal energy causes the water molecule to "move" more causing the dye to diffuse faster.
 
 ## Electronics Lessons:
 * [Coin Battery](./lessons/CoinBattery.md)
@@ -59,6 +59,21 @@ Goal is to show that science is:
 Shows how elements have different physical properties than a molecule made up of those elements.  Then explore how the ratio effect the physical properties of the molecule with H2O and H2O2.
 * [Water Electrolysis](./lessons/WaterElectrolysis.md)
 * [Soap Foam](./lessons/SoapFoam.md) (Very Messy but fun.)
+
+### Solubility
+This has two parts (total of four lessons).  It covers solubility vs. mixtures and how thermal energy (which can causes increased diffusion) affects the solubility of a material in water.
+
+#### Part I:
+See how different material disperse into water to make a solution or mixture.  Also see how thermal energy affects how the material disperses
+* [Solubility](./lessons/Materialsinwater.md): Identifying which material make a solution or mixture in water.
+* [Diffusion](./lessons/Dyecolor.md): Using Food coloring and hot/cold water to show thermal energy as diffusion.
+
+#### Part II:
+Water Solubility of solids and gasses as a function of temperature.
+These two experiments should go hand in hand.  As temperature increases gasses want to dissolve **OUT OF** of water; however solids want to dissolve **INTO** the water.  
+* [Gas Solubility](./lessons/Co2Solubity.md): CO2 Solubility in Water as function of Temperature
+* [Solid Solubility](./lessons/SugarSolubilty.md): Sugar Solubility in Water as function of Temperature
+
 
 ### Density 101
 * [Aluminum Boats: Volume](./lessons/AlBoats.md): Make a metal float!
