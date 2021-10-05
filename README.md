@@ -41,6 +41,7 @@ Goal is to show that science is:
 * **Density**
     * [Aluminum Boats: Make metal float](./lessons/AluminumBoats.md)   
     * [Sink A Marshmallow](./lessons/SinkAMarshmallow.md)
+    * [Pennies and Water](./lessons/Water_density_temp.md): Measure with pennies the differences of water density as function of temperature
 * [Spectroscope](./lessons/spectroscope.md): Make a spectroscope with a defraction grating and "See" what colors are in light.
 * [Diffusion](./lessons/Dyecolor.md): Using Food coloring and hot/cold water to show thermal energy as diffusion.  See how thermal energy causes the water molecule to "move" more causing the dye to diffuse faster.
 
