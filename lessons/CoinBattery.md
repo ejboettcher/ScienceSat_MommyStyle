@@ -16,7 +16,11 @@ Using a voltmeter to show the effect with the coin battery is simpler but less s
 
 ## Goals
 
-  To make science more approachable.  Using only household goods, one can do science!  Hence anyone can do science.
+  To make science more approachable!
+   
+  Achieved by using only household goods, to show that science can be done anywhere.
+  
+  Proving, anyone can do science.
 
 
 ## Materials
@@ -28,7 +32,8 @@ For each coin battery station, you’ll need:
 - [ ] Spoon or stir stick
 - [ ] Thick paper towel, blotter paper, cloth, felt
 - [ ] Scissors
-- [ ] About 6 each, pennies, nickels, dimes and quarters, zinc plated washers ( Example: 6 pennies and 6 washers)
+- [ ] ~ 6 each, pennies, nickels, dimes, zinc plated washers
+     - Example: 6 pennies and 6 washers
 - [ ] A voltmeter that can read at least tenths of a volt
 - [ ] Small battery, AA or AAA is fine
 - [ ] Optional LED
@@ -56,7 +61,7 @@ See [Planck Constant](https://en.wikipedia.org/wiki/Planck_constant) for more in
 
 Use the AA battery as shown in the photo to the left to verify you have the meter set up correctly.
 
-![Battery Test](../HowThingsWork_files/Coin_Battery_Project_meter_test.jpg)
+![Battery Test](../images/battery_voltage.png)
 
 If the light bulb project is being performed at the same time as the coin battery, this is the perfect time to show how the battery can be used to make the flashlight bulb light up.
 
@@ -80,21 +85,29 @@ If the light bulb project is being performed at the same time as the coin batter
 Your DONE.  You just built not one but multiple BATTERIES.  Congratulations!
 
 ### Testing the Battery
-![Battery Test](/HowThingsWork_files/DSCF3902.jpg)
+
+
+| Coin Battery  | Zero Voltage  |
+|  ------       |  ------    |
+| ![Battery Test](../images/coin_battery.jpg) | ![Battery Test](../images/zero_voltage.jpg) |
+
+
+
 
 Turn the voltmeter on to a DC Voltage setting that shows at least one, and if possible, two or more decimal points as shown in the photo. Test each coin battery cell to make sure it is working as a small battery by putting one lead on the nickel and the other on the penny. You should see somewhere between .25 and .50 volts DC depending on how well that cell is working.
 
 After each nickel/paper/penny cell is tested, set it on top of the previous cell. For example, after two cells are tested, you should have a nickel, paper, penny then another nickel, paper, penny. After three cells, you will have a nickel, paper, penny (no paper), nickel, paper, penny, (no paper), nickel, paper, penny … and so on. After stacking each new cell, put one of the voltmeter leads on the bottom nickel and the other on the top penny. With each new added cell, you should see a total voltage that is about the same as adding up what you measured for each individual cell that is now in the stack.
 
 #### Battery cells
+Table below show the voltage per battery cell.
 
-| Battery Cells | Volts     |
-|:------ :        |:--------:   |
-|   1           | ~ 0.25    |
-|   2           | 0.5 - 0.8 |
-|   3           | 0.8 - 1.4 |
-| 5 - 6         | 1.5 - 2.5 |
 
+| Battery Cells |  Volts     |
+|  -------      | -------  |
+|   1           |  ~ 0.25     |
+|   2           |  0.5 - 0.8  |
+|   3           |  0.8 - 1.4  |
+|  5 - 6         |  1.5 - 2.5  |
 
 
 ### Multi Cell Coin Battery
@@ -106,7 +119,7 @@ In the photo above, 1.25 Volts was achieved with 3 cells connected together.
 
 After about 3 cells, it gets hard to hold them all together without shorting out the battery. It is easier to build the coin stack on the table and use the points the meter leads to touch the bottom and top coins.
 
-*** NOTE*** LEDs are diodes so the current only flows in one direction. Also there might not be enough current in your coin battery to light the LED, but give it a try! It’s well worth the effort!
+***NOTE*** LEDs are diodes so the current only flows in one direction. Also there might not be enough current in your coin battery to light the LED, but give it a try! It’s well worth the effort!
 
 ## More Experiments
 
