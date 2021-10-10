@@ -86,9 +86,11 @@ Your DONE.  You just built not one but multiple BATTERIES.  Congratulations!
 
 ### Testing the Battery
 
-| ![Battery Test](../images/coin_battery.jpg) | ![Battery Test](../images/zero_voltage.jpg) |
-| :------ :      | :--------: |
 | Coin Battery  | Zero Voltage  |
+| :------ :      | :--------: |
+| ![Battery Test](../images/coin_battery.jpg) | ![Battery Test](../images/zero_voltage.jpg) |
+
+
 
 
 Turn the voltmeter on to a DC Voltage setting that shows at least one, and if possible, two or more decimal points as shown in the photo. Test each coin battery cell to make sure it is working as a small battery by putting one lead on the nickel and the other on the penny. You should see somewhere between .25 and .50 volts DC depending on how well that cell is working.
