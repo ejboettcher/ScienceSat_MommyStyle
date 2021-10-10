@@ -86,6 +86,7 @@ Your DONE.  You just built not one but multiple BATTERIES.  Congratulations!
 
 ### Testing the Battery
 
+
 | Coin Battery  | Zero Voltage  |
 | :------ :      | :--------: |
 | ![Battery Test](../images/coin_battery.jpg) | ![Battery Test](../images/zero_voltage.jpg) |
@@ -98,6 +99,7 @@ Turn the voltmeter on to a DC Voltage setting that shows at least one, and if po
 After each nickel/paper/penny cell is tested, set it on top of the previous cell. For example, after two cells are tested, you should have a nickel, paper, penny then another nickel, paper, penny. After three cells, you will have a nickel, paper, penny (no paper), nickel, paper, penny, (no paper), nickel, paper, penny … and so on. After stacking each new cell, put one of the voltmeter leads on the bottom nickel and the other on the top penny. With each new added cell, you should see a total voltage that is about the same as adding up what you measured for each individual cell that is now in the stack.
 
 #### Battery cells
+Table below show the voltage per battery cell.
 
 | Battery Cells | Volts     |
 |:------ :      |:--------: |
