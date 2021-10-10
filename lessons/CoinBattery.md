@@ -88,7 +88,7 @@ Your DONE.  You just built not one but multiple BATTERIES.  Congratulations!
 
 
 | Coin Battery  | Zero Voltage  |
-| :------ :      | :--------: |
+|  ------       |  ------    |
 | ![Battery Test](../images/coin_battery.jpg) | ![Battery Test](../images/zero_voltage.jpg) |
 
 
@@ -101,13 +101,13 @@ After each nickel/paper/penny cell is tested, set it on top of the previous cell
 #### Battery cells
 Table below show the voltage per battery cell.
 
-| Battery Cells | Volts     |
-|:------ :      |:--------: |
-|   1           | ~ 0.25    |
-|   2           | 0.5 - 0.8 |
-|   3           | 0.8 - 1.4 |
-| 5 - 6         | 1.5 - 2.5 |
 
+| Battery Cells |  Volts     |
+|  -------      | -------  |
+|   1           |  ~ 0.25     |
+|   2           |  0.5 - 0.8  |
+|   3           |  0.8 - 1.4  |
+|  5 - 6         |  1.5 - 2.5  |
 
 
 ### Multi Cell Coin Battery
@@ -119,7 +119,7 @@ In the photo above, 1.25 Volts was achieved with 3 cells connected together.
 
 After about 3 cells, it gets hard to hold them all together without shorting out the battery. It is easier to build the coin stack on the table and use the points the meter leads to touch the bottom and top coins.
 
-*** NOTE*** LEDs are diodes so the current only flows in one direction. Also there might not be enough current in your coin battery to light the LED, but give it a try! It’s well worth the effort!
+***NOTE*** LEDs are diodes so the current only flows in one direction. Also there might not be enough current in your coin battery to light the LED, but give it a try! It’s well worth the effort!
 
 ## More Experiments
 
