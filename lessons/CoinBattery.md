@@ -86,8 +86,8 @@ Your DONE.  You just built not one but multiple BATTERIES.  Congratulations!
 
 ### Testing the Battery
 
-|![Battery Test](../images/coin_battery.jpg) |![Battery Test](../images/zero_voltage.jpg)|
-|:------ :      |:--------: |
+| ![Battery Test](../images/coin_battery.jpg) | ![Battery Test](../images/zero_voltage.jpg) |
+| :------ :      | :--------: |
 | Coin Battery  | Zero Voltage  |
 
 
