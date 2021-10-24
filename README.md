@@ -53,6 +53,8 @@ Goal is to show that science is:
 * Butter (soon)
 * Sugar Candy (soon)
 
+## Math
+* [Conics with wax paper](./lessons/Conics.md) 
 
 ## One Hour Fun:
 ### Chemistry 101
